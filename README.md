@@ -1,5 +1,5 @@
 Simple-editor
-Jest to strona powstała w ramach szkolenia WTF: co ten fronten?
+Jest to strona powstała w ramach szkolenia WTF: co ten frontend?
 
 Zastosowane technologie:
 HTML,
